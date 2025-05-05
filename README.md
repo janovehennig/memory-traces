@@ -100,11 +100,11 @@ This project is built on advanced Web Audio API techniques and blockchain intera
 
 ## License
 
-[Include license information here]
+CC BY-NC-SA 4.0
 
 ## Credits
 
-Created by [Your Name]
+Created by Jan Ove Hennig as part of the "Abstracted Parameters" initiative by LUSKO and Refraction DAO
 
 ## Acknowledgments
 
