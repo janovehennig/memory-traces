@@ -2,7 +2,7 @@
 
 Memory traces is an interactive audio-visual experience that transforms LUKSO blockchain assets into musical sequences and visualizations.
 
-![Memory traces](https://via.placeholder.com/800x400?text=Memory+traces+Visualization)
+![cables_202555_155555](https://github.com/user-attachments/assets/9db9d650-6fe0-4984-9f33-f4b55433b6aa)
 
 ## Overview
 
