@@ -1,12 +1,12 @@
 # Memory Traces
 
-Memory traces is an interactive audio-visual experience that transforms LUKSO blockchain assets into musical sequences and visualizations.
+Memory Traces is an interactive audio-visual experience that transforms LUKSO blockchain assets into musical sequences and visualizations.
 
 ![cables_202555_155555](https://github.com/user-attachments/assets/ebb491c4-0f53-46e6-ae80-1bc862a749eb)
 
 ## Overview
 
-Memory traces analyzes Universal Profile assets chronologically to create unique sonic fingerprints of on-chain identity and activity. By retrieving and processing blockchain data, the system generates evolving musical compositions that represent your digital journey on the LUKSO blockchain.
+"Memory Traces" analyzes Universal Profile assets chronologically to create unique sonic fingerprints of on-chain identity and activity. By retrieving and processing blockchain data, the system generates evolving musical compositions that represent your digital journey on the LUKSO blockchain.
 
 ## Features
 
@@ -19,7 +19,7 @@ Memory traces analyzes Universal Profile assets chronologically to create unique
 
 ## Technical Architecture
 
-Memory traces consists of several interconnected components:
+Memory Traces consists of several interconnected components:
 
 1. **Data Acquisition Layer**: Connects to LUKSO RPC endpoints to retrieve Universal Profile data
 2. **Processing Layer**: Decodes and chronologically orders asset information
@@ -56,7 +56,7 @@ Memory traces consists of several interconnected components:
 
 ### Browser Compatibility
 
-Memory traces relies heavily on the Web Audio API for audio synthesis and processing. Browser support varies:
+Memory Traces relies heavily on the Web Audio API for audio synthesis and processing. Browser support varies:
 
 - **Chrome/Edge**: Best performance and most reliable filter behavior
 - **Firefox**: Good overall support but may exhibit differences in filter resonance
@@ -79,7 +79,7 @@ Note: This project will eventually be converted into a Mini app that functions w
 
 ## How It Works
 
-Memory traces leverages the ERC725Y data structure to access LSP5ReceivedAssets from Universal Profiles. Assets are retrieved in chronological order using Transfer events from the blockchain, then processed through a parameter mapping system that converts addresses into musical values.
+Memory Traces leverages the ERC725Y data structure to access LSP5ReceivedAssets from Universal Profiles. Assets are retrieved in chronological order using Transfer events from the blockchain, then processed through a parameter mapping system that converts addresses into musical values.
 
 The core of the sonification process involves:
 
